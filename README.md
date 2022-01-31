@@ -4,6 +4,6 @@ In this game, you control a helicopter with the keybord arrows (left, up, right 
 
 ## How to Run the Project
 To run this project, you'll only need to import the files into Godot IDE and press the play button.
-Additionally, it is possible to run the executable file "professor-ditador.exe".
+Additionally, it is possible to run the executable file "professor-ditador.exe" which is compressed in the "executable" folder.
 
 It is worth remembering that it is necessary to have Godot installed on your machine to play this game.
